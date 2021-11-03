@@ -40,6 +40,12 @@ https://blog.csdn.net/pbhLOVEpp/article/details/80205026
 
 # Back-end
 
+## Python
+
+​					——内容来源于Python Crash Course(Python编程 ——从入门到实践)第二版。
+
+
+
 ## Java
 
 [How2J.com -- Java Learning](https://how2j.cn/)
