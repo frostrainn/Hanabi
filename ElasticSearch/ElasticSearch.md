@@ -331,6 +331,8 @@ https://www.infoq.cn/article/database-timestamp-02/?utm_source=infoq&utm_medium=
 
 ​		Elasticsearch存储文档时，将在1秒钟内几乎实时地对其进行索引和完全搜索。Elasticsearch使用称为倒排索引的数据结构，该结构支持非常快速的全文本搜索。反向索引列出了出现在任何文档中的每个唯一单词，并标识了每个单词出现的所有文档。
 
+
+
 # 附录
 
 ## ElasticSearch官方网站
