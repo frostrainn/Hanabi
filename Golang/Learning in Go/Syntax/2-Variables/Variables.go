@@ -11,5 +11,5 @@ func main() {
 	fmt.Println("my new age is", age)
 
 	var age1 int = 29
-	fmt.Println("声明变量并初始化 age1 is",age1)
+	fmt.Println("声明变量并初始化 age1 is", age1)
 }
