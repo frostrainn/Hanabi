@@ -8,6 +8,12 @@ https://draveness.me/golang/
 
 https://draveness.me/
 
+https://www.bookstack.cn/read/leaf/spilt.1.toturial.md
+
+https://www.bookstack.cn/
+
+https://space.bilibili.com/322210472/channel/seriesdetail?sid=238027
+
 Go语言中文网--Go系列教程
 
 [Go tutorial series](https://studygolang.com/subject/2)

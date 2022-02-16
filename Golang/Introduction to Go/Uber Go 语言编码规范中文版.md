@@ -1658,8 +1658,8 @@ BenchmarkGood-4   100000000    0.21s
 
 Go程序使用[`os.Exit`] 或者 [`log.Fatal*`] 立即退出 (使用`panic`不是退出程序的好方法，请 [don't panic](#不要-panic).)
 
-  [`os.Exit`]: https://golang.org/pkg/os/#Exit
-  [`log.Fatal*`]: https://golang.org/pkg/log/#Fatal
+[`os.Exit`]: https://golang.org/pkg/os/#Exit
+[`log.Fatal*`]: https://golang.org/pkg/log/#Fatal
 
 **仅在`main（）`**中调用其中一个 `os.Exit` 或者 `log.Fatal*`。所有其他函数应将错误返回到信号失败中。
 
@@ -2739,11 +2739,11 @@ func f(list []int) {
   ```go
   nums := []int{}
   // or, nums := make([]int)
-
+  
   if add1 {
     nums = append(nums, 1)
   }
-
+  
   if add2 {
     nums = append(nums, 2)
   }
@@ -2753,11 +2753,11 @@ func f(list []int) {
 
   ```go
   var nums []int
-
+  
   if add1 {
     nums = append(nums, 1)
   }
-
+  
   if add2 {
     nums = append(nums, 2)
   }
