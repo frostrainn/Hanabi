@@ -14,6 +14,8 @@ https://www.bookstack.cn/
 
 https://space.bilibili.com/322210472/channel/seriesdetail?sid=238027
 
+https://zhuanlan.zhihu.com/p/144578751
+
 Go语言中文网--Go系列教程
 
 [Go tutorial series](https://studygolang.com/subject/2)
