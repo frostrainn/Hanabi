@@ -1,6 +1,6 @@
 # Something Fun
 
-2021.11.03 , finally try to collect something fun in github.
+2021.11.03 , decided to collect something fun in Github.
 
 
 
