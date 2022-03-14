@@ -1,6 +1,6 @@
 # Something Fun
 
-2021.11.03 , finally try to collect something fun in github.
+2021.11.03 , decided to collect something fun in Github.
 
 
 
@@ -23,3 +23,5 @@ https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in
 https://github.com/crisxuan/bestJavaer
 
 https://github.com/izackwu/TeachYourselfCS-CN
+
+http://craftinginterpreters.com/welcome.html
