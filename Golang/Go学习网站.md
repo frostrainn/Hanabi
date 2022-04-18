@@ -15,3 +15,7 @@ https://github.com/inancgumus/learngo
 测试驱动学习Go语言
 
 https://studygolang.gitbook.io/learn-go-with-tests/
+
+通过例子学习Go
+
+https://github.com/gobyexample-cn/gobyexample
