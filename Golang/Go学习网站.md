@@ -19,3 +19,5 @@ https://studygolang.gitbook.io/learn-go-with-tests/
 通过例子学习Go
 
 https://github.com/gobyexample-cn/gobyexample
+
+https://golang.iswbm.com/preface.html
